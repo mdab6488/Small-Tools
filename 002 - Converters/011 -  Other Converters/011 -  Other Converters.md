@@ -224,3 +224,116 @@ Tensile Strength Calculator
 Text to Binary Converter
 Text to Unicode Converter
 Currency Converter
+cm to inches
+kg to lbs
+Celsius to Fahrenheit
+mm to inches
+meters to feet
+km to miles
+cm to feet
+grams to ounces
+inches to feet
+liters to gallons
+pounds to ounces
+mph to kph
+acres to square feet
+radians to degrees
+hp to kw
+meters to yards
+mL to cups
+inches to cm
+lbs to kg
+Fahrenheit to Celsius
+inches to mm
+feet to meters
+miles to km
+feet to cm
+ounces to grams
+feet to inches
+gallons to liters
+ounces to pounds
+kph to mph
+square feet to acres
+degrees to radians
+kw to hp
+yards to meters
+cups to mL
+Length Converter
+Weight and Mass Converter
+Volume Converter
+Temperature Converter
+Area Converter
+Pressure Converter
+Energy Converter
+Volume - Dry Converter
+Currency Converter
+Case Converter
+Power Converter
+Force Converter
+Time Converter
+Speed Converter
+Angle Converter
+Fuel Consumption Converter
+Numbers Converter
+Data Storage Converter
+Velocity - Angular Converter
+Acceleration Converter
+Acceleration - Angular Converter
+Density Converter
+Specific Volume Converter
+Moment of Inertia Converter
+Moment of Force Converter
+Torque Converter
+Charge Converter
+Linear Charge Density Converter
+Surface Charge Density Converter
+Volume Charge Density Converter
+Current Converter
+Linear Current Density Converter
+Surface Current Density Converter
+Electric Field Strength Converter
+Electric Potential Converter
+Electric Resistance Converter
+Electric Resistivity Converter
+Electric Conductance Converter
+Electric Conductivity Converter
+Electrostatic Capacitance
+Inductance Converter
+Fuel Efficiency - Mass Converter
+Fuel Efficiency - Volume Converter
+Temperature Interval Converter
+Thermal Expansion Converter
+Thermal Resistance Converter
+Thermal Conductivity Converter
+Specific Heat Capacity Converter
+Heat Density Converter
+Heat Flux Density Converter
+Heat Transfer Coefficient Converter
+Magnetomotive Force Converter
+Magnetic Field Strength Converter
+Magnetic Flux Converter
+Magnetic Flux Density Converter
+Flow Converter
+Flow - Mass Converter
+Flow - Molar Converter
+Mass Flux Density Converter
+Concentration - Molar Converter
+Concentration - Solution Converter
+Viscosity - Dynamic Converter
+Viscosity - Kinematic Converter
+Surface Tension Converter
+Permeability Converter
+Radiation Converter
+Radiation-Activity Converter
+Radiation-Exposure Converter
+Radiation-Absorbed Dose Converter
+Luminance Converter
+Luminous Intensity Converter
+Illumination Converter
+Digital Image Resolution Converter
+Frequency Wavelength Converter
+Prefixes Converter
+Data Transfer Converter
+Sound Converter
+Typography Converter
+Volume - Lumber Converter

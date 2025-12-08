@@ -1312,3 +1312,295 @@ Should my spouse work?
 This calculator is designed to help you see the financial impact of having either one or two incomes for your household.
 Student Budget
 This calculator is specifically designed to help students understand their expenses and income while attending a university, college or other full-time educational institution.
+What is my potential estate tax liability?
+Federal income tax estimator
+Should I adjust my payroll withholdings?
+Will my investment interest be deductible?
+How much self-employment tax will I pay?
+Capital gains (and losses) tax estimator
+Compare taxable, tax-deferred, and tax-free growth
+How much of my social security benefit may be taxable?
+Tax implications of paying interest?
+Itemize or take the standard deduction?
+What is my taxable-equivalent yield?
+Tax refund estimator
+Tax freedom day
+How long will it take to pay off my credit card?
+How long until my loan is paid off?
+What are my loan payments?
+Do I have too much debt?
+What is the balance owing on my loan?
+Consolidate my personal debt?
+Re-structuring debts for accelerated payoff
+Cash up front or payments over time?
+Impact of making extra debt payments?
+Pay off debts or invest the money?
+Should I transfer my credit card balances?
+Estimate my credit score
+What monthly payments are needed to pay off my loan sooner?
+Does inflation impact my standard of living?
+How much am I spending?
+How much do I need for emergencies?
+Pay down debt or invest more?
+How long will my money last?
+Should my spouse work?
+What is my current new worth?
+What is my projected net worth?
+What is my current cash flow?
+What is my projected cash flow?
+Value of reducing or foregoing expenses
+Historical inflation - compare purchasing power
+Will retirement impact my living expenses?
+How much will I need for retirement?
+Are my current retirement savings sufficient?
+Social Security retirement income estimator
+How does inflation impact my retirement income needs?
+I'm retired, how long will my savings last?
+When should I begin saving for retirement?
+Convert discretionary expenses to savings?
+How much retirement income may my 401(k) provide?
+Compare a Roth 401(k) to a Traditional 401(K)
+How much life insurance do I need?
+What is my life expectancy?
+Needs for burial and final expenses?
+How much disability income insurance do I need?
+Chances of becoming disabled
+Long-term care insurance needs
+How much will I earn in my lifetime?
+Tax advantages of an annuity?
+How long will my current life insurance proceeds last?
+Future value of an annuity?
+Which Is Better, Comprehensive Plan Or High-Deductible Plan With HSA?
+Compare a taxable investment to a tax-deferred investment
+What are the payments on an immediate annuity?
+How much is my company bonus after taxes?
+How will payroll adjustments affect my take-home pay?
+Convert my salary to an equivalent hourly wage
+Convert my hourly wage to an equivalent salary
+Future value of my employee stock options?
+Exercise my "in-the-money" stock options?
+What may my 401(k) be worth?
+Impact of increasing my 401(k) contribution?
+What may my 457 Plan be worth?
+Impact of increasing my 457 Plan contribution?
+What may my 403(b) Plan be worth?
+What is the impact of increasing my 403(b) contribution?
+What may my Health Savings Account (HSA) be worth?
+What may my company ESOP be worth?
+
+Investment Calculators
+How should I allocate my assets?
+Compare taxable / tax-free investment return
+What is the value of a bond?
+Return on my real estate investment?
+The value of compound interest?
+The value of a call or put option?
+Taxable vs. tax-advantaged saving comparison
+What is my risk tolerance?
+What is the long-term impact of increased return?
+Certificate of Deposit (CD) analyzer
+What is the dividend yield on a stock?
+How do expenses impact mutual fund returns
+Certificate of Deposit (CD) laddering strategy
+Share Certificate analyzer
+Share Certificate laddering strategy
+TVM Calculator
+Currency Converter
+Compound Interest Calculator
+Return On Investment (ROI) Calculator
+IRR NPV Calculator
+Bond Calculator
+Tax Equivalent Yield Calculator
+Rule of 72 Calculator
+College Savings Calculator
+Investment Income Calculator
+Mutual Fund Fee Calculator
+US Health Savings Account Calculator
+Savings Goal Calculator
+Certificate of Deposit (CD) Calculator
+Credit Card Payoff Calculator
+Credit Card Minimum Calculator
+Paycheck Calculator
+Income Tax Calculator
+Property Tax Calculator
+Tax Return Calculator
+Retirement Taxes Calculator
+
+Investment Calculator
+Capital Gains Tax Calculator
+Inflation Calculator
+Asset Allocation Calculator
+
+
+
+Search
+Mortgage
+Taxes
+Retirement
+Financial Advisors
+Banking
+Investing
+Credit Cards
+Life Insurance
+Refinance
+Personal Loans
+Student Loans
+SmartReads
+SmartAsset AMP
+About
+Press
+Terms of Service
+Privacy Policy
+Back to SmartAsset Home
+Mortgage
+Calculators
+Mortgage Calculator
+Closing Costs Calculator
+Cost of Living Calculator
+How Much House Can I Afford?
+Mortgage Lender Reviews
+Rocket Mortgage Review
+Better Mortgage Review
+AmeriSave Mortgage Review
+More Lender Reviews
+Compare Rates
+Mortgage Rates
+30-Year Mortgage Rates
+15-Year Mortgage Rates
+7/1 Arm Mortgage Rates
+5/1 Arm Mortgage Rates
+3/1 Arm Mortgage Rates
+Helpful Guides
+Home Buying Guide
+Veteran Home Buying Guide
+Learn More
+How Much You Should Charge for Rent
+Avoid These Early Mortgage Payoff Mistakes
+How to Buy Land
+Down Payment Gifts
+Taxes
+Calculators
+Paycheck Calculator
+Income Tax Calculator
+Property Tax Calculator
+Tax Return Calculator
+Retirement Taxes Calculator
+Helpful Guides
+Tax Guide
+Tax Software Reviews
+Best Free Tax Software
+H&R Block Review
+Jackson Hewitt Review
+FreeTaxUsa Review
+Learn More
+Federal Income Tax Brackets
+How to Fill Out W-4
+State Capital Gains Taxes
+Gift Tax Explained
+Your Standard Deduction
+Tax Allowances
+Retirement
+Calculators
+Retirement Calculator
+401(k) Calculator
+Social Security Calculator
+RMD Calculator
+Helpful Guides
+Retirement Guide
+Financial Advisor Guide
+Estate Planning Guide
+Learn More
+RMD Table
+How to Calculate Your RMD
+401(k) Withdrawal
+The Rule of 55
+401(k) Contribution Advice
+Financial Advisors
+Find a Financial Advisor
+Top Financial Advisors
+Financial Advisors in Houston, TX
+Financial Advisors in Charlotte, NC
+Financial Advisors in Atlanta, GA
+Financial Advisors in New York, NY
+Firm Reviews
+Advisory Firm Reviews
+Fisher Investments Review
+Merrill Lynch Review
+Helpful Tools
+Financial Advisor Value Calculator
+Working with a Financial Advisor Guide
+Financial Advisor Resources
+Guide to Financial Advisor Business Plans
+Client Acquisition Strategies
+Client Retention Strategies
+Cold Calling Scripts for Financial Advisors
+Marketing Tips
+About SmartAsset AMP
+More Resources for Advisors
+Learn More
+How to Choose a Financial Advisor
+Are Financial Advisors Worth it?
+What Is Conservatorship?
+Family Trusts
+CFA vs. CFP
+Best Financial Planning Software
+Wealth Managers vs. Financial Advisors
+Financial Advisor Cost
+Banking
+Calculators
+Savings Calculator
+CD Calculator
+Compare Bank Accounts
+Compare Savings Accounts
+Compare Checking Accounts
+Compare CD Rates
+Compare Money Market Accounts
+Helpful Guides
+Checking & Savings Guide
+Banking Products
+Best Savings Accounts
+Best Money Market Accounts
+Best CD Rates
+Best Checking Accounts
+Bank Reviews
+Ally Bank Review
+Capital One Review
+USAA Review
+Bask Bank Review
+Personal Finance Resources
+What Is the Best Credit Card for You?
+Personal Loan Calculator
+Student Loan Calculator
+Budget Calculator
+Learn More
+Withdrawal Limits
+How to Get a Bank Statement
+FDIC Insurance
+Investing
+Calculators
+Investment Calculator
+Capital Gains Tax Calculator
+Inflation Calculator
+Asset Allocation Calculator
+Helpful Guides
+Investing Guide
+Compare Accounts
+Brokerage Accounts
+Learn More
+What is a Fiduciary?
+How to Invest $100k
+What's a Good P/E Ratio?
+Types of Investments
+Tax Free Investments
+Credit Cards
+Best Credit Cards
+Best Credit Cards
+Helpful Guides
+Credit Cards Guide
+Compare Cards
+What is the Best Credit Card for You?
+Life Insurance
+Calculators
+How Much Life Insurance Do I Need?
+Compound Interest Calculator
+
