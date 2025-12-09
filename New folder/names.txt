@@ -1,8 +1,18 @@
-Basic Mathematics
-Algebra & Pre-Calculus
-Calculus & Analysis
-Geometry & Trigonometry
-Statistics & Probability
-Linear Algebra & Matrices
-Scientific & Engineering
-Number Theory & Discrete Math
+Date & Time
+Academic & Educational
+Financial & Loan
+Unit Conversion
+Physics & Engineering
+Construction & Home
+Automotive
+Health & Fitness
+Weather & Climate
+Chemistry & Science
+Geometry & Shapes
+Mathematics & Statistics
+Number & Conversion Tools
+Interest & Compound
+Sports & Recreation
+Utility & Lifestyle
+Random Generators & Games
+Embeddable Calculators
