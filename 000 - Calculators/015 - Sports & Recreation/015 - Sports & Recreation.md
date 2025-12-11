@@ -1,2 +1,0 @@
-Golf Handicap Calculator
-

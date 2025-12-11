@@ -1,18 +1,12 @@
-Date & Time
-Academic & Educational
-Financial & Loan
-Unit Conversion
-Physics & Engineering
-Construction & Home
-Automotive
-Health & Fitness
-Weather & Climate
-Chemistry & Science
-Geometry & Shapes
-Mathematics & Statistics
-Number & Conversion Tools
-Interest & Compound
-Sports & Recreation
-Utility & Lifestyle
-Random Generators & Games
-Embeddable Calculators
+Body Measurements
+Fitness & Exercise
+Nutrition & Diet
+Pregnancy & Obstetrics
+Pediatric Health
+Activity Tracking & Steps
+Medical Calculators
+Sleep & Recovery
+Specialized Health
+Fitness Tests
+Personal & Lifestyle Calculators
+General Health Calculators

@@ -1,0 +1,6 @@
+- **GPA Calculator**
+- **Parlay Calculator**
+- **Password Generator**
+- **Random Number Generator**
+- **Tip Calculator**
+- **Word Counter**
