@@ -1,0 +1,2 @@
+Frequency Calculator
+Wavelength Calculator
